@@ -1,0 +1,167 @@
+========================================
+PERSONAL PROFILE - YOUSSEF KHALED
+========================================
+
+PERSONAL INFORMATION
+--------------------
+Full Name: Youssef Khaled Ismail Hassan
+Date of Birth: July 22, 2004
+Age: 21 years old
+Nationality: Egyptian
+Location: Alexandria, Egypt
+GitHub: github.com/YoussefK-Ismail
+Portfolio: youssefkhaledportfolio.netlify.app
+
+ABOUT ME
+--------
+I am a passionate AI and NLP Developer with 3 years of experience building intelligent applications.
+I specialize in LangChain, Groq AI, and Python.
+I am currently working as an AI Developer at Ceulla Technologies, where I develop NLP and ML solutions.
+I am deeply interested in Artificial Intelligence and its real-world applications.
+
+EDUCATION
+---------
+Degree: Bachelor of Science in Computer Science and Engineering
+Specialization: Artificial Intelligence
+University: Alamein International University (AIU)
+Expected Graduation: 2026
+
+TRAINING & CERTIFICATIONS
+--------------------------
+1. Machine Learning for Data Analysis
+   Institution: NTI (National Telecommunication Institute)
+   Program: Digital Egypt Youth Program
+   Duration: 90 Technical Hours + 30 Freelancing Hours
+   Score: 97%
+   Year: 2025
+
+2. Desktop Application Development in Java
+   Institution: ITI (Information Technology Institute)
+   Duration: July 4, 2024 - August 26, 2024
+
+3. AI Developer Track
+   Institution: Ceulla Technologies
+   Focus: NLP and Machine Learning
+
+Coursera Certifications:
+- NLP with Classification and Vector Spaces - DeepLearning.AI (2025)
+- NLP with Sequence Models - DeepLearning.AI (2023)
+- Algorithmic Toolbox - UC San Diego (2025)
+- Algorithms on Graphs - UC San Diego (2025)
+- Databases and SQL for Data Science with Python - IBM (2024)
+- Introduction to Artificial Intelligence - IBM (2023)
+- Introduction to Agile Development and Scrum - IBM (2024)
+- Engineering Practices for Building Quality Software - University of Minnesota (2024)
+- Introduction to Relational Databases - IBM (2024)
+- Introduction to Probability and Data with R - Duke University (2024)
+- Introduction to OOP with Java - LearnQuest (2023)
+- Natural Language Processing with Classification and Vector Spaces - DeepLearning.AI (2025)
+- Ordered Data Structures - University of Illinois (2025)
+
+WORK EXPERIENCE
+---------------
+1. AI Developer - Ceulla Technologies (Current)
+   - Working on NLP track
+   - Developing AI solutions including text classification
+   - Building machine learning models using Python
+   - Implementing NLP pipelines
+
+2. Freelance AI Developer (Current)
+   - Building AI-powered chatbots using LangChain and Groq
+   - Developing Q&A applications using LLMs
+   - Creating AI content detection systems
+
+3. Java Intern - ITI
+   - Desktop application development using Java
+   - Duration: July 2024 - August 2024
+
+TECHNICAL SKILLS
+----------------
+Programming Languages:
+- Python (Main Language)
+- Java (Intermediate)
+
+AI / Machine Learning:
+- LangChain Framework
+- Groq AI (Llama3 model)
+- HuggingFace Transformers
+- DistilBERT
+- BLIP
+- Scikit-learn
+- Large Language Models (LLMs)
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+
+NLP:
+- Text Classification
+- Sentiment Analysis
+- Natural Language Processing
+- Word Embeddings
+
+Web Development:
+- Streamlit
+
+Databases & Vector Stores:
+- FAISS
+- ChromaDB
+
+Tools:
+- Git & GitHub
+- VS Code
+- Google Colab
+
+PROJECTS
+--------
+1. AI-Powered Q&A Application (2025)
+   - Built using LangChain and Groq AI (Llama3 model)
+   - Answers any question instantly
+   - Clean Streamlit interface
+   - Live Demo: https://youssef-qna-langchain.streamlit.app
+   - GitHub: github.com/YoussefK-Ismail/Q-A-App-LangChain
+   - Technologies: Python, LangChain, Groq AI, Streamlit
+
+2. Conversational AI Chatbot with Memory (2025)
+   - Built using LangChain and Groq AI
+   - Remembers full conversation context
+   - Natural multi-turn conversations
+   - Live Demo: https://youssefkhaled-app-langchain-ucoh82nblw2lzjnajupkmn.streamlit.app
+   - GitHub: github.com/YoussefK-Ismail/Conversational-App-LangChain
+   - Technologies: Python, LangChain, Groq AI, Streamlit
+
+3. AI Toxic Content Detection System (2025)
+   - Detects toxic content using deep learning
+   - Text classification using DistilBERT
+   - Image analysis using BLIP model
+   - Live Demo: https://toxic-classifier-youssefk.streamlit.app
+   - Technologies: Python, DistilBERT, BLIP, HuggingFace, Streamlit
+
+INTERESTS & HOBBIES
+--------------------
+- Artificial Intelligence and Machine Learning
+- Natural Language Processing
+- Building AI applications
+- Continuous learning and self-development
+- Freelancing and problem solving
+
+LANGUAGES
+---------
+- Arabic: Native
+- English: Proficient
+
+GOALS & ASPIRATIONS
+-------------------
+Short-term Goals:
+- Complete graduation from Alamein International University
+- Build more AI projects for portfolio
+- Get freelance clients in AI development
+- Improve skills in LangChain and LLMs
+
+Long-term Goals:
+- Become a senior AI/ML engineer
+- Build impactful AI solutions for real-world problems
+- Contribute to Arabic NLP development
+- Launch AI-powered products
+
+========================================
+END OF PROFILE
+========================================
