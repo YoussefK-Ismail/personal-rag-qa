@@ -14,12 +14,12 @@
 
 ## 📸 Screenshots
 
-Put your screenshots in a `screenshots/` folder in your repo
-<!-- Example: -->
-<!-- ![App Screenshot](screenshots/home.png) -->
-<!-- ![Chat Screenshot](screenshots/chat.png) -->
+![Screenshot 1](screenshots1)
+![Screenshot 2](screenshots2)
+![Screenshot 3](screenshots3)
+![Screenshot 4](screenshots4)
 
-> 📌 *Screenshots coming soon*
+
 
 ---
 
