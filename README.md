@@ -14,8 +14,10 @@
 
 <!-- Add your screenshots here after uploading them to the repo -->
 <!-- Example: -->
-<!-- ![App Screenshot](screenshots/home.png) -->
-<!-- ![Chat Screenshot](screenshots/chat.png) -->
+<!-- ![App Screenshot](screenshots/1.png) -->
+<!-- ![Chat Screenshot](screenshots/2.png) -->
+<!-- ![Chat Screenshot](screenshots/3.png) -->
+<!-- ![Chat Screenshot](screenshots/4.png) -->
 
 > 📌 *Screenshots coming soon*
 
